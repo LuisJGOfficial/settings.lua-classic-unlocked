@@ -1,5 +1,5 @@
 # settings.lua unlocked
-How to unlock Angry Birds in the most faster way.
+Unlock Angry Birds in the most faster way.
 # What does this file consist of?
 This lua file is only functional with the PC version of Angry Birds and consists of completely unlocking the game without having to complete anything.
 # How to use it?

@@ -6,9 +6,9 @@ This lua file is only functional with the PC version of Angry Birds and consists
 The only thing you have to do is place this file in the path below: C:\Users\ [Name User] \AppData\Roaming\Rovio\Angry Birds and once done copy and paste the file. (if there is already an existing one, replace it)
 # Up to what version is this file useful?
 This file is functional from version 2.0.0 of the PC version of Angry Birds in onwards
-# Is compatible with Android and PC ports?
+# Is compatible with PC ports?
 Yes, of course this is compatible with every port of this game and, in fact, you can check every port of this game here: https://archive.org/details/angry-birds-fan-ports_20250816
 
 Well, this file only works with the PC ports because i don't know that this file works with the Android ports or maybe isn't functional with the mobile ports.
-# Is compatible with Android and PC mods?
+# Is compatible with PC mods?
 Yes, this compatible too with the mods of this game and, again, the android mods isn't functional with this file
